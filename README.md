@@ -6,4 +6,8 @@ I from NY and I am a freshman at Lehigh. I am going to major in chemistry, becau
 
 [Instagram](https://www.instagram.com/katrinaparsa10/)
 
+#Lehigh Enrollment
+
+ 
+
 ![Lehigh Enrollment](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Student%20Enrollment.png?raw=true)
