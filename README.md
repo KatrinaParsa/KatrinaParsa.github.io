@@ -19,3 +19,7 @@ Scientists have gotten very far in scientific advancements, to a point where we 
 This data was collected by Pew Research [click here](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2016/07/PS_2016.07.26_Human-Enhancement-Survey_FINAL.pdf) to find out more. 
 
 ![Stats](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/BioMedical%20Enhancement.png?raw=true)
+
+# Le-Laf Rivalry
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1stbegOk2fJeE23hvN3CgDI3EpVg5CjxVuI3zXwqPSzc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
