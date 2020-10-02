@@ -24,7 +24,7 @@ This data was collected by Pew Research [click here](https://www.pewresearch.org
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1stbegOk2fJeE23hvN3CgDI3EpVg5CjxVuI3zXwqPSzc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Ruth Bader Ginsburg
+# Ruth Bader Ginsburg
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lI-wyf7uToF6fD_vpbMOx92UVqgVZbNSPGdyXbkot1s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
