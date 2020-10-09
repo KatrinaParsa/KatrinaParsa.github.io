@@ -23,6 +23,10 @@ This data was collected by Pew Research [click here](https://www.pewresearch.org
 
 ![Stats](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/BioMedical%20Enhancement.png?raw=true)
 
+# Trust In Science
+
+![Bar Chart](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Importance_of_Scientific_Advancements_More_Important_Less_Important_No_Difference_chartbuilder.png?raw=true)
+
 # Le-Laf Rivalry
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1stbegOk2fJeE23hvN3CgDI3EpVg5CjxVuI3zXwqPSzc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
