@@ -26,6 +26,8 @@ This data was collected by Pew Research [click here](https://www.pewresearch.org
 
 # Trust In Science
 
+There will be a need for new scientific research. Even though science has allowed us to understand the world better, which has benefited our exsistance, there are many people who are skeptical about scientific advancements. People with a high school diploma or less are more likely to disregard any developements as important.  The root of this problem is mostly because people who don't understand science well have a hard time trusting it or noting its significance.
+
 ![Bar Chart](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Importance_of_Scientific_Advancements_More_Important_Less_Important_No_Difference_chartbuilder.png?raw=true)
 
 # Le-Laf Rivalry
