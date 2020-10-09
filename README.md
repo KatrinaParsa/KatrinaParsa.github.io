@@ -10,7 +10,8 @@ I from NY and I am a freshman at Lehigh. I am going to major in chemistry, becau
 
  Lehigh is strong is academics in all disciplines, but they're well known for their top engineering programs. Here we see that majority of students are enrolled in the College of Arts and Sciences and the College of Engineering. There is a relativity even distribution of men and women that enroll, and more men happen to go towards the College of Engineering. This was collected by the [Office of Insitiutional Research and Statistic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-![Lehigh Enrollment](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Student%20Enrollment.png?raw=true =10x20)
+![Lehigh Enrollment](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Student%20Enrollment.png?raw=true)
+
 
 
 ![Percent Enrollment in Colleges](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Lehigh_Enrollment_2019_Undergraduate_Enrollment_chartbuilder.png?raw=true)
