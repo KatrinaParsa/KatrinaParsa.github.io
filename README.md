@@ -12,9 +12,11 @@ I from NY and I am a freshman at Lehigh. I am going to major in chemistry, becau
 
 ![Lehigh Enrollment](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Student%20Enrollment.png?raw=true)
 
-
-
 ![Percent Enrollment in Colleges](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Lehigh_Enrollment_2019_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+Lehigh is best known for the well rounded liberal arts education and exceptional engineering program. There has always been a large enrollment into the engineering program to where that college has the largest enrollment. However, from 2016 there has been a gradual increase of enrollment into the College of Arts and Sciences. More applicants are looking at Lehigh as an overall school rather than an engineering institution, which is what probably lead to the increase in arts and science students. 
+
+![Yearly Enrollment Stats](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Arts_and_Sciences_Arts_and_Engineering_Bussiness_Engineering_and_Applied_Sciences_Intercollegiate_Programs_General_College_chartbuilder.png?raw=true)
 
 # Biomedical Enhancements
 
