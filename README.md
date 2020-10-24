@@ -40,6 +40,11 @@ There will be a need for new scientific research. Even though science has allowe
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lI-wyf7uToF6fD_vpbMOx92UVqgVZbNSPGdyXbkot1s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Streaming Services
+TV has changed over the years to where a television screen is no longer needed. This is because of the growing streaming services like Netflix, Home Box Office, Hulu, and more. These platforms are used, because of their wide variety of classic shows ans each streaming services' original shows, like many "Netlfix originals." Hulu and Netflix have had growing success over the past six years, especially Netflix because they started out much earlier than other streaming platforms. Due to the success and convience of these services cable tv will eventually become obsolete. 
+
+![streaming services](https://raw.githubusercontent.com/KatrinaParsa/KatrinaParsa.github.io/097d640d2db750d4fcd106e4629832bcac3306f4/Streaming_Service_Rates_Netflix_HBO_Hulu_chartbuilder.svg)
+
 # World's Top 20 Cyclying Cities
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1UEAYXMIxpa36tOeiY3pjRW9bY09R1eKr" width="640" height="480"></iframe>
@@ -49,5 +54,3 @@ There will be a need for new scientific research. Even though science has allowe
 There has always been an issue witht the distribution of wealth in America. The majority of the wealth is clustered together instead of being spread out amoung the millions of Americans. The top 10 percent of households hold most of the wealth, leaving the botton 90 percent with only 40 percent of the wealth. In the map below each state is ranked from how much wealth they have, and what percent of households make over $200,000 for their yearly income. New York, Massachusetts, Delaware, Connecticut, and California are amoung the top five states that hold the most wealth. This is probably due to the fact that these states have a larger population, and because they have major cities within them. Therefore, it makes sense that New York is ranked first, because of the multitudes of ways they accumulate revenue in New York City alone. In terms of household income, Washington DC is ranked first. This is probably because of the amount of political officials there, who tend to make more than others. If you look closer, you will see that New York and Massachusetts are also ranked farther up compared to other states. With this in mind you start to think about the relationship between the population of a state to its overall wealth distribution. 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1lvlum-iMzqgrmOOOZWKYLtgF_GAcmkiw" width="640" height="480"></iframe>
-
-# Streaming Services
