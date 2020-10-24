@@ -40,6 +40,9 @@ There will be a need for new scientific research. Even though science has allowe
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lI-wyf7uToF6fD_vpbMOx92UVqgVZbNSPGdyXbkot1s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Life Satisfaction v GDP
+![Life Satisfaction v GDP](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Life_satisfaction_v_GDP_per_Capita_Life_satisfaction_chartbuilder.png?raw=true)
+
 # Streaming Services
 TV has changed over the years to where a television screen is no longer needed. This is because of the growing streaming services like Netflix, Home Box Office, Hulu, and more. These platforms are used, because of their wide variety of classic shows ans each streaming services' original shows, like many "Netlfix originals." Hulu and Netflix have had growing success over the past six years, especially Netflix because they started out much earlier than other streaming platforms. Due to the success and convience of these services cable tv will eventually become obsolete. 
 
