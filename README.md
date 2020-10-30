@@ -44,7 +44,7 @@ There will be a need for new scientific research. Even though science has allowe
 ![Life Satisfaction v GDP](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Life_satisfaction_v_GDP_per_Capita_Life_satisfaction_chartbuilder.png?raw=true)
 
 # Streaming Services
-TV has changed over the years to where a television screen is no longer needed. This is because of the growing streaming services like Netflix, Home Box Office, Hulu, and more. These platforms are used, because of their wide variety of classic shows ans each streaming services' original shows, like many "Netlfix originals." Hulu and Netflix have had growing success over the past six years, especially Netflix because they started out much earlier than other streaming platforms. Due to the success and convience of these services cable tv will eventually become obsolete. 
+TV has changed over the years due to the growing streaming services like Netflix, Home Box Office, Hulu, and more. These platforms are used, because of their wide variety of classic shows ans each streaming services' original shows, like many "Netlfix originals." Hulu and Netflix have had growing success over the past six years, especially Netflix because they started out much earlier than other streaming platforms. Due to the success and convience of these services cable tv will eventually become obsolete. 
 
 ![streaming services](https://raw.githubusercontent.com/KatrinaParsa/KatrinaParsa.github.io/097d640d2db750d4fcd106e4629832bcac3306f4/Streaming_Service_Rates_Netflix_HBO_Hulu_chartbuilder.svg)
 
