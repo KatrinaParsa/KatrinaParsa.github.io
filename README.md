@@ -30,7 +30,7 @@ This data was collected by Pew Research [click here](https://www.pewresearch.org
 
 There will be a need for new scientific research. Even though science has allowed us to understand the world better, which has benefited our exsistance, there are many people who are skeptical about scientific advancements. People with a high school diploma or less are more likely to disregard any developements as important.  The root of this problem is mostly because people who don't understand science well have a hard time trusting it or noting its significance.
 
-![Bar Chart](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Screen%20Shot%202020-10-30%20at%203.08.05%20PM.png?raw=true) 
+![Bar Chart](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Screen%20Shot%202020-11-11%20at%209.50.25%20PM.png?raw=true) 
 
 # Le-Laf Rivalry
 
