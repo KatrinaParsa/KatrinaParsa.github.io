@@ -38,8 +38,14 @@ There will be a need for new scientific research. Even though science has allowe
 
 # Ruth Bader Ginsburg
 
+Justice Ruth Bader Ginsburg has spent her lifetime working to achieve equality for everyone, but it wasn't easy for her. Throughout law school, her abilities were always questioned because she was a woman. However, despite that she was featured on both Harvard's and Columbia's Law Review. These featured the top students in each class. She was turned away from many law firms becuase the people hiring didn't think that a woman could be a good lawyer. From there she went to Sweden to do research there, and she noticed the huge difference in how women were viewed and treated there to here in the US. She used her what she learned from her research later on in her time as a law professor She turned to academia and taught at Rugter's Law school and Columbia Law school where she introduced the idea of sex discrimination in her lectures. Afterwards, she started working for the American Civil Liberities Union, where she was able to apply her knowledge from law school to individual cases. After gainin experience as a judge on the DC circiut, Ginsburg was nominated by President Bill Clinton to become a US Supreme Court Justice. Once she was confirmed by the Senate 96 to 3, she became the second woman on the highest court of the land. During her time as a US Supreme Court Justice, she advocated for racial and gender equality, among other things. A few of her more well known cases as a Justice were Roe v. Wade and United States v. Virginia. In these two cases she allowed for women to have control of their body and for women to be able to apply and attent Virginia Military Institute. For her work she was awarded the American Bar Association Medal, which is the highest honor a lawyer can recieve, and was inducted into the Women's Hall of Fame. Jusitce Ginsburg has done so much of millions of Americans, while tackling many obstacles along the way, and her hardwork will never be forgotten. 
+
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lI-wyf7uToF6fD_vpbMOx92UVqgVZbNSPGdyXbkot1s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+! [NPR] (https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87)
+! [RBG Documentary] (https://en.wikipedia.org/wiki/RBG_(film))
+1 [On the Basis of Sex] (https://en.wikipedia.org/wiki/On_the_Basis_of_Sex)
 
 # Life Satisfaction v GDP
 ![Life Satisfaction v GDP](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Life_satisfaction_v_GDP_per_Capita_Life_satisfaction_chartbuilder.png?raw=true)
