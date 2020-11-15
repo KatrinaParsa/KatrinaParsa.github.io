@@ -43,9 +43,11 @@ Justice Ruth Bader Ginsburg has spent her lifetime working to achieve equality f
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lI-wyf7uToF6fD_vpbMOx92UVqgVZbNSPGdyXbkot1s&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-! [NPR] (https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87)
-! [RBG Documentary] (https://en.wikipedia.org/wiki/RBG_(film))
-1 [On the Basis of Sex] (https://en.wikipedia.org/wiki/On_the_Basis_of_Sex)
+[NPR](https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87)
+
+[RBG Documentary](https://en.wikipedia.org/wiki/RBG_(film))
+
+[On the Basis of Sex](https://en.wikipedia.org/wiki/On_the_Basis_of_Sex)
 
 # Life Satisfaction v GDP
 ![Life Satisfaction v GDP](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Life_satisfaction_v_GDP_per_Capita_Life_satisfaction_chartbuilder.png?raw=true)
