@@ -6,17 +6,13 @@ I from NYC and I am a freshman at Lehigh. I am going to major in chemistry, beca
 
 [Instagram](https://www.instagram.com/katrinaparsa10/)
 
+# Pixton
+![Pixton Comic](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Screen%20Shot%202020-11-19%20at%203.21.05%20PM.png?raw=true)
+
 # Lehigh Enrollment
 
  Lehigh is strong is academics in all disciplines, but they're well known for their top engineering programs. Here we see that majority of students are enrolled in the College of Arts and Sciences and the College of Engineering. There is a relativity even distribution of men and women that enroll, and more men happen to go towards the College of Engineering. This was collected by the [Office of Insitiutional Research and Statistic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-![Lehigh Enrollment](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Student%20Enrollment.png?raw=true)
-
-![Percent Enrollment in Colleges](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Lehigh_Enrollment_2019_Undergraduate_Enrollment_chartbuilder.png?raw=true)
-
-Lehigh is best known for the well rounded liberal arts education and exceptional engineering program. There has always been a large enrollment into the engineering program to where that college has the largest enrollment. However, from 2016 there has been a gradual increase of enrollment into the College of Arts and Sciences. More applicants are looking at Lehigh as an overall school rather than an engineering institution, which is what probably lead to the increase in arts and science students. 
-
-![Yearly Enrollment Stats](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Arts_and_Sciences_Arts_and_Engineering_Bussiness_Engineering_and_Applied_Sciences_Intercollegiate_Programs_General_College_chartbuilder.png?raw=true)
 
 # Biomedical Enhancements
 
@@ -32,9 +28,6 @@ There will be a need for new scientific research. Even though science has allowe
 
 ![Bar Chart](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Screen%20Shot%202020-11-11%20at%209.50.25%20PM.png?raw=true) 
 
-# Le-Laf Rivalry
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1stbegOk2fJeE23hvN3CgDI3EpVg5CjxVuI3zXwqPSzc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Ruth Bader Ginsburg
 
@@ -49,17 +42,12 @@ Justice Ruth Bader Ginsburg has spent her lifetime working to achieve equality f
 
 [On the Basis of Sex](https://en.wikipedia.org/wiki/On_the_Basis_of_Sex)
 
-# Life Satisfaction v GDP
-![Life Satisfaction v GDP](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Life_satisfaction_v_GDP_per_Capita_Life_satisfaction_chartbuilder.png?raw=true)
 
 # Streaming Services
 TV has changed over the years due to the growing streaming services like Netflix, Home Box Office, Hulu, and more. These platforms are used, because of their wide variety of classic shows ans each streaming services' original shows, like many "Netlfix originals." Hulu and Netflix have had growing success over the past six years, especially Netflix because they started out much earlier than other streaming platforms. Due to the success and convience of these services cable tv will eventually become obsolete. 
 
 ![streaming services](https://raw.githubusercontent.com/KatrinaParsa/KatrinaParsa.github.io/097d640d2db750d4fcd106e4629832bcac3306f4/Streaming_Service_Rates_Netflix_HBO_Hulu_chartbuilder.svg)
 
-# World's Top 20 Cyclying Cities
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1UEAYXMIxpa36tOeiY3pjRW9bY09R1eKr" width="640" height="480"></iframe>
 
 # Wealth Across the States
 
