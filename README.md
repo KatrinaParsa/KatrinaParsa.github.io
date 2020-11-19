@@ -9,10 +9,6 @@ I from NYC and I am a freshman at Lehigh. I am going to major in chemistry, beca
 # Pixton
 ![Pixton Comic](https://github.com/KatrinaParsa/KatrinaParsa.github.io/blob/master/Screen%20Shot%202020-11-19%20at%203.21.05%20PM.png?raw=true)
 
-# Lehigh Enrollment
-
- Lehigh is strong is academics in all disciplines, but they're well known for their top engineering programs. Here we see that majority of students are enrolled in the College of Arts and Sciences and the College of Engineering. There is a relativity even distribution of men and women that enroll, and more men happen to go towards the College of Engineering. This was collected by the [Office of Insitiutional Research and Statistic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
-
 
 # Biomedical Enhancements
 
